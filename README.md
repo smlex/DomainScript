@@ -21,7 +21,7 @@ mkdir vesta
 wget https://raw.githubusercontent.com/smlex/DomainScript/master/modules/servers/vesta/vesta.php -O vesta.php
 ```
 
-And change or replace v-add-web-domain
+And change or replace vesta bin/v-add-web-domain
 
 ```
 cd /usr/local/vesta/bin/
