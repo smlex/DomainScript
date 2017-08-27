@@ -1,8 +1,4 @@
-# Project Title
-
-Domain Script for VestaCP + WHMCS (deploy tool)
-
-
+# Domain Script for VestaCP + WHMCS (deploy tool)
 
 ### Requirement
 
